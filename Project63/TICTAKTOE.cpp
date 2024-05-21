@@ -87,9 +87,6 @@ int main() {
 		cout << "-----------" << endl;
 		cout << " " << board[6] << " | " << board[7] << " | " << board[8] << endl;
 	} while (isCompleted != true);
-
-
-
 	system("pause");
 	return 0;
 }
